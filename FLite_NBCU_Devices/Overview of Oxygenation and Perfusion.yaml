@@ -1,0 +1,76 @@
+Which of these statements about the heart are true?:
+     type: MULTIPLE
+     answers:
+        - It has two atrial and two ventricular chambers.
+        - It pumps oxygenated blood to all parts of the body.
+        - It plays a role in tissue oxygenation.
+Through which vessel does oxygenated blood enter the heart?:
+     type: SINGLE
+     answer: Pulmonary vein
+Match the layers of cardiac muscles with their positions within the heart.:
+     type: DRAG
+     answers:
+        Myocardium : Middle layer of muscle tissue in the heart.
+        Epicardium : Outermost layer of heart muscle tissue.
+        Endocardium : Innermost layer of heart muscle tissue. 
+Venous blood returning from the body enters which heart chamber?:
+     type: SINGLE
+     answer: Right atrium
+Which of these organs are parts of the upper respiratory tract?:
+     type: MULTIPLE
+     answers:
+        - Nose, nasal cavity
+        - Sinuses, pharynx
+Through which parts of the respiratory tract does air pass after moving through the trachea?:
+     type: MULTIPLE
+     answers:
+        - Bronchioles
+        - Alveoli
+"The process of oxygen diffusing across alveolar walls into pulmonary capillaries is called:":
+     type: SINGLE
+     answer: External respiration
+"The process of exhalation involves:":
+     type: SINGLE
+     answer: Intraalveolar pressure rising above atmospheric pressure.
+A nursing student is preparing to teach a patient how blood flows through the heart. In what order would the student place these steps to describe the process?:
+     type: REORDER
+     answers:
+        1 : Deoxygenated blood enters the right atrium via the superior and inferior vena cava.
+        2 : Blood passes through the tricuspid valve to the right ventricle.
+        3 : Blood enters the lungs via the pulmonary artery and gas exchange occurs through the pulmonary capillary system.
+        4 : Blood flows through pulmonary vein to the left atrium.
+        5 : Blood moves through the mitral valve to the left ventricle.
+        6 : Blood moves through the aortic valve into the aorta.
+A patient with weak right ventricular systole asks what is wrong with his heart. What should the nurse say?:
+     type: SINGLE
+     answer: The right side of your heart is not pumping with enough force to propel an adequate amount of blood to the lungs.
+Following damage to the epicardium, the nurse would expect which changes to occur in the heart wall?:
+     type: MULTIPLE
+     answers: 
+        - Impaired secretion of serous fluid
+        - Increased friction during heart contractions
+"A patient with a chronic respiratory disease is to receive teaching about the breathing process. Information to include is that ventilation starts with inspiration and is triggered by:":
+     type: SINGLE
+     answer: Impulses in the respiratory center of the brain
+"During the inspiratory phase of respiration, the phrenic nerve:":
+     type: SINGLE
+     answer: Stimulates the diaphragm to move downward
+A nursing student is preparing to teach a patient the process of inspiration and expiration. In what order would the student place these steps to describe the process?:
+     type: REORDER
+     answers:
+        1 : The respiratory center in the brain releases an impulse to nerves.
+        2 : The phrenic nerve stimulates the diaphragm to move downward and the intercostal nerve causes the intercostal muscles to contract.
+        3 : The chest cavity expands, causing decreased intraalveolar pressure.
+        4 : Atmospheric pressure exceeds intraalveolar pressure, causing air to move into the respiratory tract and the lungs fill with air.
+        5 : The diaphragm relaxes and intraalveolar pressure increases.
+        6 : Air is forced out from the lungs.
+
+Which of these statements about the heart are true?:
+     type: MULTIPLE
+     answers:
+        - It has two atrial and two ventricular chambers.
+        - It pumps oxygenated blood to all parts of the body.
+        - It plays a role in tissue oxygenation.
+Venous blood returning from the body enters which heart chamber?:
+     type: SINGLE
+     answer: Right atrium

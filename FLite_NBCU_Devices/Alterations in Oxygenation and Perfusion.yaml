@@ -1,0 +1,80 @@
+What is the circulatory outcome of a strong, coordinated cardiac muscle contraction?:
+     type: SINGLE
+     answer: Oxygenated blood is pumped to the tissues.
+To initiate a normal beat, an organized electrical impulse is generated from which heart chamber?:
+     type: SINGLE
+     answer: Right atrium
+Which arteries supply oxygenated blood to the heart muscle?:
+     type: MULTIPLE
+     answers:
+        - Left main
+        - Left anterior descending
+        - Circumflex
+In addition to chest pain, a patient with a blocked coronary artery may experience which symptoms?:
+     type: MULTIPLE
+     answers:
+        - Vomiting
+        - Dyspnea
+        - Nausea
+What physiological changes may occur within the body due to an alteration in lung tissue caused by disease?: 
+     type: MULTIPLE
+     answers:
+        - Carbon dioxide retention
+        - Decreased oxygen delivery to alveoli
+        - Impaired oxygen transfer from alveoli to capillaries
+How would the nurse describe the defining characteristics of emphysema?:
+     type: MULTIPLE
+     answers:
+        - Inelastic alveoli with decreased surface area
+        - Hyperinflation with air trapped in distal alveoli
+        - Hypoxia with decreased gas exchange
+What are the symptoms associated with pneumonia?:
+     type: MULTIPLE
+     answers:
+        - Cough
+        - Fever
+        - Dyspnea
+Which clinical situations indicate that a patient is at high risk for atelectasis?:
+     type: MULTIPLE
+     answers:
+        - A patient with decreased movement of the diaphragm and chest wall.
+        - A patient experiencing pain after abdominal surgery.
+        - A patient with COPD with small airway obstruction from retained secretions
+Which of these lung sounds is crackles?:
+     type: SOUND
+     answer: answerChoice2
+When assessing a cardiac patient, an irregular, slow heart rate is noted. The nurse understands this symptom may result from which possible etiologies (causes)?:
+     type: MULTIPLE
+     answers:
+        - Interrupted electrical impulses
+        - Pacemaker disturbances
+        - Electrolyte imbalance
+Which descriptions would be most appropriate for the nurse to include while providing patient education to a newly diagnosed emphysema patient?:
+     type: MULTIPLE
+     answers:
+        - Progressive and irreversible condition
+        - Chronic obstructive pulmonary disorder
+        - Characterized by intermittent airway narrowing
+Label this image with the correct terms.:
+     type: LABEL
+     answers:
+        RHS1: Tympanic membrane
+        RHS2: Auditory nerve (cochlear and vestibular branch)
+        RHS3: Round window
+        RHS4: Stapes and footplate
+        RHS5: Facial nerve
+        RHS6: Semicircular canals
+        RHS7: Oval window
+        RHS8: Cochlea
+        RHS9: External auditory canal
+        RHS10: Eustachian tube
+        RHS11: Auricle
+        RHS12: Incus
+        RHS13: Malleus
+The nurse should encourage a patient who is recovering from abdominal surgery to do deep breathing exercises regularly to prevent which post-operative complication?:
+     type: SINGLE
+     answer: Atelectasis      
+Match the layers of cardiac muscles with their positions within the heart.:
+     type: DRAG
+     answers:
+         Myocardium : test

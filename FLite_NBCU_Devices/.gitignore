@@ -1,0 +1,6 @@
+/bin/
+/target/
+/data.properties
+/test-output/.
+**/test-output
+**/target
